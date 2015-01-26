@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"GoSublime",
+		"HTML-CSS-JS Prettify",
+		"Numix Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"Theme - itg.flat",
+		"Theme - Numix",
+		"Theme - Spacegray"
+	]
+}
